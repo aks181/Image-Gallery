@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aks181/Image-Gallery.git/static/css/main.f298dd06.chunk.css",
+    "main.js": "/aks181/Image-Gallery.git/static/js/main.4d1a634d.chunk.js",
+    "main.js.map": "/aks181/Image-Gallery.git/static/js/main.4d1a634d.chunk.js.map",
+    "runtime-main.js": "/aks181/Image-Gallery.git/static/js/runtime-main.1122340f.js",
+    "runtime-main.js.map": "/aks181/Image-Gallery.git/static/js/runtime-main.1122340f.js.map",
+    "static/js/2.ca81e717.chunk.js": "/aks181/Image-Gallery.git/static/js/2.ca81e717.chunk.js",
+    "static/js/2.ca81e717.chunk.js.map": "/aks181/Image-Gallery.git/static/js/2.ca81e717.chunk.js.map",
+    "index.html": "/aks181/Image-Gallery.git/index.html",
+    "precache-manifest.c3b28e3c4fdf9aa7b95525f7191ee932.js": "/aks181/Image-Gallery.git/precache-manifest.c3b28e3c4fdf9aa7b95525f7191ee932.js",
+    "service-worker.js": "/aks181/Image-Gallery.git/service-worker.js",
+    "static/css/main.f298dd06.chunk.css.map": "/aks181/Image-Gallery.git/static/css/main.f298dd06.chunk.css.map",
+    "static/js/2.ca81e717.chunk.js.LICENSE.txt": "/aks181/Image-Gallery.git/static/js/2.ca81e717.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1122340f.js",
+    "static/js/2.ca81e717.chunk.js",
+    "static/css/main.f298dd06.chunk.css",
+    "static/js/main.4d1a634d.chunk.js"
+  ]
+}
