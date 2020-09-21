@@ -1,3 +1,23 @@
+<h2>Image Gallery</h2>
+<p>React app to fetch top 25 images on search and align them into grid. Images fetched from Unsplash API</p>
+<hr />
+<h3>Points to learn</h3>
+<ul>
+    <li>Using event handlers on JSX elements</li>
+    <li>Creating a searchbar</li>
+    <li>Handling callbacks on JSX elements</li>
+    <li>Communicating from child to parents via callbacks</li>
+    <li>Using value attribute in input to make controlled component</li>
+    <li>Using map to render list</li>
+    <li>Key should be assigned to root element being rendered</li>
+    <li>Using axios to make fetch requests</li>
+    <li>Axios in main component and in separate api component</li>
+    <li>Using react refs to acccess DOM elements</li>
+    <li>CSS grid adjustment to fit images into grid</li>
+</ul>
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
